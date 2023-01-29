@@ -1,0 +1,9 @@
+
+u
+java:S14885"_Immediately return this expression instead of assigning it to the temporary variable "userDto".(é±Ñ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Š¦ûÂ
+P
+java:S1854=":Remove this useless assignment to local variable "claims".(ÛŸœ¤
+A
+java:S1481="+Remove this unused "claims" local variable.(ÛŸœ¤
