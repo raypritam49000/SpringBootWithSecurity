@@ -1,0 +1,19 @@
+
+t
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "bookVo".(“§ß
+{
+java:S1488"`Immediately return this expression instead of assigning it to the temporary variable "authorVo".(¤æï°üÿÿÿÿ
+x
+java:S1488&"bImmediately return this expression instead of assigning it to the temporary variable "categoryVo".(²×ˆ
+~
+java:S1488/"cImmediately return this expression instead of assigning it to the temporary variable "publisherVo".(ÌÃ©Ûùÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(üëÕ
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+h
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß
+h
+java:S62041"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß

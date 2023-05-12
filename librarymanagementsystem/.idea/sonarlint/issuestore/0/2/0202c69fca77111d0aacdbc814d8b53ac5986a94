@@ -1,0 +1,7 @@
+
+^
+java:S36555"HCall "item.isPresent()" or "!item.isEmpty()" before accessing the value.(¤µÁÝ
+d
+java:S3252M"IUse static access with "com.opencsv.ICSVWriter" for "NO_QUOTE_CHARACTER".(øýü™úÿÿÿÿ
+]
+java:S3252N"HUse static access with "com.opencsv.ICSVWriter" for "DEFAULT_SEPARATOR".(µ¼çv

@@ -1,0 +1,13 @@
+
+h
+java:S1192B"RDefine a constant instead of duplicating this literal "redirect:/authors" 3 times.(˜“üÕ
+b
+java:S11921"GDefine a constant instead of duplicating this literal "author" 5 times.(å”âíþÿÿÿÿ
+h
+java:S6204("RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(¬‡à‰
+V
+java:S46846"@Replace this persistent entity with a simple POJO or DTO object.(›…æ¬
+[
+java:S4684;"@Replace this persistent entity with a simple POJO or DTO object.(ÜÑ–†ÿÿÿÿÿ
+V
+java:S4684M"@Replace this persistent entity with a simple POJO or DTO object.(µÎïˆ
